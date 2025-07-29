@@ -1,0 +1,8 @@
+Username
+ client_eccfa2475_141027
+Password
+ YUEt9ID6mRCRUA
+
+Hostname: q3h.a40.myftpupload.com
+
+Port: 22 (this means you are to use SFTP, not standard FTP)
